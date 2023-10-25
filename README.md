@@ -22,4 +22,4 @@ The fixed-effects regression analysis unveiled that, at a 10% significance level
 The dataset used in this analysis is derived from the World Bank database, encompassing a time span from 2001 to 2016. It includes fertility rate data, female and male labor participation rates, unemployment rates, and GDP for 10 developed countries.
 
 # Code
-The code utilized for this analysis is structured in R, providing a step-by-step procedure for data cleaning, model building, and result interpretation. It includes the implementation of the fixed-effects model, various tests for specification, and the generation of relevant visualizations to aid in understanding the findings.
+The code utilized for this analysis is structured in Stata, providing a step-by-step procedure for data cleaning, model building, and result interpretation. It includes the implementation of the fixed-effects model, various tests for specification, and the generation of relevant visualizations to aid in understanding the findings.
