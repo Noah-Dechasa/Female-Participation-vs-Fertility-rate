@@ -1,7 +1,7 @@
 # The Effect of Female Labor Participation on Fertility Rate in 10 of the Top Developed Countries in The World
-# Author: Noah Dechasa
-# Course: ECON-210: Econometrics
-# Date: December 5, 2022
+ Author: Noah Dechasa
+ Course: ECON-210: Econometrics
+ Date: December 5, 2022
 
 # Abstract
 The ongoing global trend indicates a decline in fertility rates concurrent with an increase in female labor force participation. This study delves into the intricate relationship between these two variables within the context of 10 developed countries from 2001 to 2016. Utilizing a fixed-effects model, the research aims to discern how variations in female labor participation, along with other factors such as male labor participation and GDP, impact fertility rates across these nations. The analysis encapsulates a comprehensive review of existing literature, meticulous data collection from the World Bank database, and rigorous econometric modeling to derive meaningful insights into the dynamics at play.
